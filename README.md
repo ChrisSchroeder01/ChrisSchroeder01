@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrisSchroeder01
 - 👀 I’m interested in **Games**, **AI**, and **Algorytms**
-- 🌱 I’m currently learning **Game Programming and Game Design**
+- 🌱 I’m currently learning **A piece of everything**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
